@@ -1,5 +1,5 @@
 # OSCAR
-This R code is used for preparing the figures for the following publication:
+OSCAR.R is used for preparing the figures for the following publication:
 
 Establishment of a novel fluorescent reporter of RNA-polymerase II activity to identify dormant cells
 
